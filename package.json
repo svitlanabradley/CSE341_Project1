@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/svitlanabradley/CSE341_Project1/issues"
   },
-  "homepage": "https://github.com/svitlanabradley/CSE341_Project1#readme"
+  "homepage": "https://github.com/svitlanabradley/CSE341_Project1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
